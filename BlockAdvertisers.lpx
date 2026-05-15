@@ -47,6 +47,9 @@ rules:
     match: lf-ad-ies.bytecdn.cn
     policy: REJECT
 - domain:
+    match: dig.bdurl.net
+    policy: REJECT
+- domain:
     match: extlog.snssdk.com
     policy: REJECT
 - domain:
