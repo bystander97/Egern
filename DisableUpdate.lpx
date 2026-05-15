@@ -1,0 +1,17 @@
+name: 屏蔽iOS更新
+description: 屏蔽 iOS 系统更新且需匹配REJECT策略组
+icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
+dns: {}
+rules:
+- domain:
+    match: mesu.apple.com
+    policy: REJECT
+- domain:
+    match: gdmf.apple.com
+    policy: REJECT
+- domain:
+    match: updates-http.cdn-apple.com
+    policy: REJECT
+- domain:
+    match: xp.apple.com
+    policy: REJECT
