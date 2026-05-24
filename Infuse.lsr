@@ -1,6 +1,7 @@
 no_resolve: true
 domain_suffix_set:
-- cflocal.xxlb.net
-- ykk.emby.moe
-- emby1.steiffs.uk
-- test.inemby.us.ci
+- xxlb.net
+- emby.moe
+- steiffs.uk
+- inemby.us.ci
+- nijigem.by
