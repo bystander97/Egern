@@ -1,156 +1,156 @@
-no_resolve: true
-domain_suffix_set:
-- 10010.cn
-- 17wo.cn
-- chinaunicom.cn
-- chinaunicombidding.cn
-- 10010.com.cn
-- chinaunicom.com.cn
-- e-engine.com.cn
-- gnoc.com.cn
-- wo.com.cn
-- cu5gaia.cn
-- cuecp.cn
-- cupb.cn
-- gd10010.cn
-- gd116114.net.cn
-- unicompayment.cn
-- unimip.cn
-- wo.cn
-- 10010.com
-- chinaunicom.com
-- chinaunicomglobal.com
-- cu5gaia.com
-- gd165.com
-- mucfc.com
-- mychinaunicom.com
-- unicomgd.com
-- unicompayment.com
-- wobaif.com
-- wom186.com
-- chinaunicom.com.hk
-- 10010.net
-- unicompayment.net
-- unicompayment.org
-- wo-link.tech
-- ctexcel.ca
-- 189.cn
-- 189jk.cn
-- 360sides.cn
-- bnet.cn
-- chinabnet.cn
-- chinatelecom.cn
-- chinatelecom.com.cn
-- ctcdn.com.cn
-- ctdns.com.cn
-- ctid.com.cn
-- ctrdc.com.cn
-- ctyun.com.cn
-- gd12349.com.cn
-- gddc.com.cn
-- gdtel.com.cn
-- yichuangyun.com.cn
-- ctcdn.cn
-- ctdns.cn
-- cthcdn.cn
-- ctlcdn.cn
-- ctmcdn.cn
-- ctxcdn.cn
-- ctycdn.cn
-- ctyun.cn
-- ctyunapi.cn
-- ctyunbdcsc.cn
-- ctyuncdn.cn
-- ctzcdn.cn
-- 10000.gd.cn
-- guangzhou.gd.cn
-- iptv.gd.cn
-- gdbnet.cn
-- iwuyou189.cn
-- chinatelecom.net.cn
-- ctycdn.net.cn
-- chinatelecom.org.cn
-- pzclub.cn
-- vnet.cn
-- wuyou189.cn
-- ycy100.cn
-- 01058511989.com
-- 189qas.com
-- 21cn.com
-- 21cnentmail.com
-- 21cnimg.com
-- 21cnsales.com
-- 360sides.com
-- 4008100800.com
-- 8009900800.com
-- chinatelecom-h.com
-- chinatelecomglobal.com
-- chntel.com
-- ctcdn.com
-- ctexcel.com
-- cthcdn.com
-- ctlcdn.com
-- ctmcdn.com
-- ctxcdn.com
-- ctycdn.com
-- ctyuncdn.com
-- ctzcdn.com
-- iwuyou189.com
-- szny189.com
-- wuyou189.com
-- ctexcel.fr
-- ctexcel.com.hk
-- id6.me
-- 21cn.net
-- 360sides.net
-- ctcdn.net
-- ctdns.net
-- cthcdn.net
-- ctlcdn.net
-- ctmcdn.net
-- ctxcdn.net
-- ctycdn.net
-- ctyuncdn.net
-- ctzcdn.net
-- ctcdn.org
-- ctdns.org
-- ctycdn.org
-- ctexcel.us
-- 10086.cn
-- andfx.cn
-- cmdcl.cn
-- cmicrwx.cn
-- cmvideo.cn
-- miguvideo.com.cn
-- cxzx10086.cn
-- lovev.cn
-- migu.cn
-- migucc.cn
-- migucdn.cn
-- 10086kuaixiu.com
-- 12530.com
-- 139.com
-- chinamobile.com
-- chinamobiledevice.com
-- chinamobileltd.com
-- cmccb2b.com
-- cmdcxls.com
-- cmpassport.com
-- fetion-portal.com
-- fetionpic.com
-- fxltsbl.com
-- lovev.com
-- migucloud.com
-- migufm.com
-- migugk.com
-- migutv.com
-- miguvideo.com
-- mmarket.com
-- mmarket6.com
-- monternet.com
-- warmchina121.com
-- zdsdp.com
-- andfx.net
-ip_cidr_set:
-- 113.200.56.63/32
-- 117.161.2.5/32
+DOMAIN-SUFFIX,10010.cn
+DOMAIN-SUFFIX,17wo.cn
+DOMAIN-SUFFIX,chinaunicom.cn
+DOMAIN-SUFFIX,chinaunicombidding.cn
+DOMAIN-SUFFIX,10010.com.cn
+DOMAIN-SUFFIX,chinaunicom.com.cn
+DOMAIN-SUFFIX,e-engine.com.cn
+DOMAIN-SUFFIX,gnoc.com.cn
+DOMAIN-SUFFIX,wo.com.cn
+DOMAIN-SUFFIX,cu5gaia.cn
+DOMAIN-SUFFIX,cuecp.cn
+DOMAIN-SUFFIX,cupb.cn
+DOMAIN-SUFFIX,gd10010.cn
+DOMAIN-SUFFIX,gd116114.net.cn
+DOMAIN-SUFFIX,unicompayment.cn
+DOMAIN-SUFFIX,unimip.cn
+DOMAIN-SUFFIX,wo.cn
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,chinaunicom.com
+DOMAIN-SUFFIX,chinaunicomglobal.com
+DOMAIN-SUFFIX,cu5gaia.com
+DOMAIN-SUFFIX,gd165.com
+DOMAIN-SUFFIX,mucfc.com
+DOMAIN-SUFFIX,mychinaunicom.com
+DOMAIN-SUFFIX,unicomgd.com
+DOMAIN-SUFFIX,unicompayment.com
+DOMAIN-SUFFIX,wobaif.com
+DOMAIN-SUFFIX,wom186.com
+DOMAIN-SUFFIX,chinaunicom.com.hk
+DOMAIN-SUFFIX,10010.net
+DOMAIN-SUFFIX,unicompayment.net
+DOMAIN-SUFFIX,unicompayment.org
+DOMAIN-SUFFIX,wo-link.tech
+DOMAIN-SUFFIX,ctexcel.ca
+
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,189jk.cn
+DOMAIN-SUFFIX,360sides.cn
+DOMAIN-SUFFIX,bnet.cn
+DOMAIN-SUFFIX,chinabnet.cn
+DOMAIN-SUFFIX,chinatelecom.cn
+DOMAIN-SUFFIX,chinatelecom.com.cn
+DOMAIN-SUFFIX,ctcdn.com.cn
+DOMAIN-SUFFIX,ctdns.com.cn
+DOMAIN-SUFFIX,ctid.com.cn
+DOMAIN-SUFFIX,ctrdc.com.cn
+DOMAIN-SUFFIX,ctyun.com.cn
+DOMAIN-SUFFIX,gd12349.com.cn
+DOMAIN-SUFFIX,gddc.com.cn
+DOMAIN-SUFFIX,gdtel.com.cn
+DOMAIN-SUFFIX,yichuangyun.com.cn
+DOMAIN-SUFFIX,ctcdn.cn
+DOMAIN-SUFFIX,ctdns.cn
+DOMAIN-SUFFIX,cthcdn.cn
+DOMAIN-SUFFIX,ctlcdn.cn
+DOMAIN-SUFFIX,ctmcdn.cn
+DOMAIN-SUFFIX,ctxcdn.cn
+DOMAIN-SUFFIX,ctycdn.cn
+DOMAIN-SUFFIX,ctyun.cn
+DOMAIN-SUFFIX,ctyunapi.cn
+DOMAIN-SUFFIX,ctyunbdcsc.cn
+DOMAIN-SUFFIX,ctyuncdn.cn
+DOMAIN-SUFFIX,ctzcdn.cn
+DOMAIN-SUFFIX,10000.gd.cn
+DOMAIN-SUFFIX,guangzhou.gd.cn
+DOMAIN-SUFFIX,iptv.gd.cn
+DOMAIN-SUFFIX,gdbnet.cn
+DOMAIN-SUFFIX,iwuyou189.cn
+DOMAIN-SUFFIX,chinatelecom.net.cn
+DOMAIN-SUFFIX,ctycdn.net.cn
+DOMAIN-SUFFIX,chinatelecom.org.cn
+DOMAIN-SUFFIX,pzclub.cn
+DOMAIN-SUFFIX,vnet.cn
+DOMAIN-SUFFIX,wuyou189.cn
+DOMAIN-SUFFIX,ycy100.cn
+DOMAIN-SUFFIX,01058511989.com
+DOMAIN-SUFFIX,189qas.com
+DOMAIN-SUFFIX,21cn.com
+DOMAIN-SUFFIX,21cnentmail.com
+DOMAIN-SUFFIX,21cnimg.com
+DOMAIN-SUFFIX,21cnsales.com
+DOMAIN-SUFFIX,360sides.com
+DOMAIN-SUFFIX,4008100800.com
+DOMAIN-SUFFIX,8009900800.com
+DOMAIN-SUFFIX,chinatelecom-h.com
+DOMAIN-SUFFIX,chinatelecomglobal.com
+DOMAIN-SUFFIX,chntel.com
+DOMAIN-SUFFIX,ctcdn.com
+DOMAIN-SUFFIX,ctexcel.com
+DOMAIN-SUFFIX,cthcdn.com
+DOMAIN-SUFFIX,ctlcdn.com
+DOMAIN-SUFFIX,ctmcdn.com
+DOMAIN-SUFFIX,ctxcdn.com
+DOMAIN-SUFFIX,ctycdn.com
+DOMAIN-SUFFIX,ctyuncdn.com
+DOMAIN-SUFFIX,ctzcdn.com
+DOMAIN-SUFFIX,iwuyou189.com
+DOMAIN-SUFFIX,szny189.com
+DOMAIN-SUFFIX,wuyou189.com
+DOMAIN-SUFFIX,ctexcel.fr
+DOMAIN-SUFFIX,ctexcel.com.hk
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,21cn.net
+DOMAIN-SUFFIX,360sides.net
+DOMAIN-SUFFIX,ctcdn.net
+DOMAIN-SUFFIX,ctdns.net
+DOMAIN-SUFFIX,cthcdn.net
+DOMAIN-SUFFIX,ctlcdn.net
+DOMAIN-SUFFIX,ctmcdn.net
+DOMAIN-SUFFIX,ctxcdn.net
+DOMAIN-SUFFIX,ctycdn.net
+DOMAIN-SUFFIX,ctyuncdn.net
+DOMAIN-SUFFIX,ctzcdn.net
+DOMAIN-SUFFIX,ctcdn.org
+DOMAIN-SUFFIX,ctdns.org
+DOMAIN-SUFFIX,ctycdn.org
+DOMAIN-SUFFIX,ctexcel.us
+
+DOMAIN-SUFFIX,10086.cn
+DOMAIN-SUFFIX,andfx.cn
+DOMAIN-SUFFIX,cmdcl.cn
+DOMAIN-SUFFIX,cmicrwx.cn
+DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,miguvideo.com.cn
+DOMAIN-SUFFIX,cxzx10086.cn
+DOMAIN-SUFFIX,lovev.cn
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,migucc.cn
+DOMAIN-SUFFIX,migucdn.cn
+DOMAIN-SUFFIX,10086kuaixiu.com
+DOMAIN-SUFFIX,12530.com
+DOMAIN-SUFFIX,139.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,chinamobiledevice.com
+DOMAIN-SUFFIX,chinamobileltd.com
+DOMAIN-SUFFIX,cmccb2b.com
+DOMAIN-SUFFIX,cmdcxls.com
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,fetion-portal.com
+DOMAIN-SUFFIX,fetionpic.com
+DOMAIN-SUFFIX,fxltsbl.com
+DOMAIN-SUFFIX,lovev.com
+DOMAIN-SUFFIX,migucloud.com
+DOMAIN-SUFFIX,migufm.com
+DOMAIN-SUFFIX,migugk.com
+DOMAIN-SUFFIX,migutv.com
+DOMAIN-SUFFIX,miguvideo.com
+DOMAIN-SUFFIX,mmarket.com
+DOMAIN-SUFFIX,mmarket6.com
+DOMAIN-SUFFIX,monternet.com
+DOMAIN-SUFFIX,warmchina121.com
+DOMAIN-SUFFIX,zdsdp.com
+DOMAIN-SUFFIX,andfx.net
+
+IP-CIDR,113.200.56.63/32
+IP-CIDR,117.161.2.5/32
