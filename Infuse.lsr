@@ -1,8 +1,6 @@
-no_resolve: true
-domain_keyword_set:
-- xxlb.net
-- emby.moe
-- steiffs.uk
-- inemby.us.ci
-- nijigem.by
-- idcdd.eu.org
+DOMAIN-KEYWORD,xxlb.net
+DOMAIN-KEYWORD,emby.moe
+DOMAIN-KEYWORD,steiffs.uk
+DOMAIN-KEYWORD,inemby.us.ci
+DOMAIN-KEYWORD,nijigem.by
+DOMAIN-KEYWORD,idcdd.eu.org
