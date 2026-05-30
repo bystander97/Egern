@@ -1,7 +1,5 @@
-no_resolve: true
-domain_suffix_set:
-- kelee.one
-- ipapi.is
-- ip-api.com
-- revenuecat.com
-- liangxin.xyz
+DOMAIN-SUFFIX,kelee.one
+DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,revenuecat.com
+DOMAIN-SUFFIX,liangxin.xyz
