@@ -48,7 +48,7 @@ rules:
     policy: REJECT
 - domain:
     match: dig.bdurl.net
-    policy: REJECT
+    policy: DIRECT
 - domain:
     match: extlog.snssdk.com
     policy: REJECT
