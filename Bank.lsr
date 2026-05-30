@@ -1,64 +1,62 @@
-no_resolve: true
-domain_suffix_set:
-- 95599.cn
-- openaboc.com.cn
-- openaboc.cn
-- abchina.com
-- bscabank.com
-- openaboc.com
-- ccb.cn
-- ccbfund.cn
-- ccbfutures.cn
-- ccbhome.cn
-- ccb.com.cn
-- ccb-life.com.cn
-- ccbfund.com.cn
-- ccblife-test.com.cn
-- ccbtrust.com.cn
-- ccb.com
-- ccbcos.com
-- ccbfund.com
-- ccbfutures.com
-- ccbleasing.com
-- ccbseoul.com
-- ccbxt.com
-- ccbintl.com.hk
-- ccbhome.net
-- cmbchina.biz
-- cmf.biz
-- 8008205555.cn
-- chndoi.cn
-- cmbchina.cn
-- cmbimg.cn
-- cmbt.cn
-- cmburl.cn
-- cmfunds.cn
-- cnkidoi.cn
-- chndoi.com.cn
-- wuxizazhi.com.cn
-- wuxizazhi.net.cn
-- bbf.org.cn
-- wuxizazhi.cn
-- 8008205555.com
-- bjsbnet.com
-- chndoi.com
-- cignacmb.com
-- cignacmb-ipmi.com
-- cignacmbamc.com
-- cmb-leasing.com
-- cmbchina.com
-- cmbimg.com
-- cmbuat.com
-- cmbwinglungbank.com
-- cmfchina.com
-- cnkidoi.com
-- test-cignacmb.com
-- wuxizazhi.com
-- cmbi.com.hk
-- cmf.ltd
-- chndoi.net
-- cnki.net
-- cnkidoi.net
-- wuxizazhi.net
-- chndoi.org
-- cnkidoi.org
+DOMAIN-SUFFIX,95599.cn
+DOMAIN-SUFFIX,openaboc.com.cn
+DOMAIN-SUFFIX,openaboc.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bscabank.com
+DOMAIN-SUFFIX,openaboc.com
+DOMAIN-SUFFIX,ccb.cn
+DOMAIN-SUFFIX,ccbfund.cn
+DOMAIN-SUFFIX,ccbfutures.cn
+DOMAIN-SUFFIX,ccbhome.cn
+DOMAIN-SUFFIX,ccb.com.cn
+DOMAIN-SUFFIX,ccb-life.com.cn
+DOMAIN-SUFFIX,ccbfund.com.cn
+DOMAIN-SUFFIX,ccblife-test.com.cn
+DOMAIN-SUFFIX,ccbtrust.com.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,ccbcos.com
+DOMAIN-SUFFIX,ccbfund.com
+DOMAIN-SUFFIX,ccbfutures.com
+DOMAIN-SUFFIX,ccbleasing.com
+DOMAIN-SUFFIX,ccbseoul.com
+DOMAIN-SUFFIX,ccbxt.com
+DOMAIN-SUFFIX,ccbintl.com.hk
+DOMAIN-SUFFIX,ccbhome.net
+DOMAIN-SUFFIX,cmbchina.biz
+DOMAIN-SUFFIX,cmf.biz
+DOMAIN-SUFFIX,8008205555.cn
+DOMAIN-SUFFIX,chndoi.cn
+DOMAIN-SUFFIX,cmbchina.cn
+DOMAIN-SUFFIX,cmbimg.cn
+DOMAIN-SUFFIX,cmbt.cn
+DOMAIN-SUFFIX,cmburl.cn
+DOMAIN-SUFFIX,cmfunds.cn
+DOMAIN-SUFFIX,cnkidoi.cn
+DOMAIN-SUFFIX,chndoi.com.cn
+DOMAIN-SUFFIX,wuxizazhi.com.cn
+DOMAIN-SUFFIX,wuxizazhi.net.cn
+DOMAIN-SUFFIX,bbf.org.cn
+DOMAIN-SUFFIX,wuxizazhi.cn
+DOMAIN-SUFFIX,8008205555.com
+DOMAIN-SUFFIX,bjsbnet.com
+DOMAIN-SUFFIX,chndoi.com
+DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cignacmb-ipmi.com
+DOMAIN-SUFFIX,cignacmbamc.com
+DOMAIN-SUFFIX,cmb-leasing.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cmbuat.com
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,cnkidoi.com
+DOMAIN-SUFFIX,test-cignacmb.com
+DOMAIN-SUFFIX,wuxizazhi.com
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmf.ltd
+DOMAIN-SUFFIX,chndoi.net
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,cnkidoi.net
+DOMAIN-SUFFIX,wuxizazhi.net
+DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,cnkidoi.org
