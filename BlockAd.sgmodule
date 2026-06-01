@@ -48,9 +48,6 @@ rules:
 - domain:
     match: extlog.snssdk.com
     policy: REJECT
-- domain:
-    match: mcs.snssdk.com
-    policy: REJECT
 - domain_suffix:
     match: bds.snssdk.com
     policy: REJECT
