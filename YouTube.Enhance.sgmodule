@@ -13,16 +13,6 @@ map_locals:
 - match: ^https?:\/\/[\w-]+\.googlevideo\.com\/initplayback.+&oad
   status_code: 200
   body: ''
-scriptings:
-- http_response:
-    name: youtube.response
-    match: ^https:\/\/youtubei\.googleapis\.com\/(youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch))(\?(.*))?$
-    script_url: https://raw.githubusercontent.com/Maasea/sgmodule/master/Script/Youtube/youtube.response.js
-    env:
-      _compat.$argument: '{"lyricLang":"off","captionLang":"off","blockUpload":true,"blockImmersive":true,"blockShorts":false,"debug":false}'
-    max_size: -1
-    body_required: true
-    binary_body: true
 mitm:
   hostnames:
     includes:
