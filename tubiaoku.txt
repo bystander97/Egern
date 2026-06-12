@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
 https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Semporia.json
+https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/other/Cute.json
